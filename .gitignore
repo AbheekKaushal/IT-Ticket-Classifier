@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+data/*
+!data/demo_tickets.csv
+!outputs/
+outputs/*
+!outputs/final/
+outputs/final/*
+!outputs/final/model.joblib
+!outputs/final/metrics.json
